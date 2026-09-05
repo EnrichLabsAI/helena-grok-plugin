@@ -1,7 +1,7 @@
 {
   "name": "helena",
   "version": "1.0.0",
-  "description": "Connect Grok to Helena, the AI marketing coordinator from Enrich Labs, for brand-aware campaign planning, research, copy, and creative production.",
+  "description": "Give Grok an AI marketer for Shopify brands that uses live brand and commerce context to research opportunities, shape strategy, build campaigns, create on-brand copy and media, and execute across connected marketing channels.",
   "author": {
     "name": "Enrich Labs",
     "url": "https://enrichlabs.ai"

@@ -1,9 +1,9 @@
 # Helena for Grok
 
-Connect Grok to [Helena](https://enrichlabs.ai), the AI marketing coordinator
-from Enrich Labs. Helena uses the brand and commerce context in your Enrich
-Labs account to help with campaign planning, product and audience research,
-brand strategy, copy, images, video, and audio.
+Give Grok [Helena](https://enrichlabs.ai), the AI marketer for Shopify brands
+from Enrich Labs. Helena uses live brand and commerce context to research
+opportunities, shape strategy, build campaigns, create on-brand copy and media,
+and execute across connected marketing channels.
 
 ## What this plugin installs
 
