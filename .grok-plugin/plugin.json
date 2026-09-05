@@ -1,0 +1,19 @@
+{
+  "name": "helena",
+  "version": "1.0.0",
+  "description": "Connect Grok to Helena, the AI marketing coordinator from Enrich Labs, for brand-aware campaign planning, research, copy, and creative production.",
+  "author": {
+    "name": "Enrich Labs",
+    "url": "https://enrichlabs.ai"
+  },
+  "homepage": "https://enrichlabs.ai",
+  "repository": "https://github.com/EnrichLabsAI/helena-grok-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "helena",
+    "enrich labs",
+    "shopify marketing",
+    "marketing coordinator",
+    "mcp"
+  ]
+}
