@@ -1,7 +1,7 @@
 {
   "name": "helena",
   "version": "1.0.0",
-  "description": "Give Grok an AI marketer for Shopify brands that uses live brand and commerce context to research opportunities, shape strategy, build campaigns, create on-brand copy and media, and execute across connected marketing channels.",
+  "description": "Bring the first autonomous AI marketer to Grok. Helena learns your brand, builds a personalized strategy, and executes it 24/7—writing, publishing, optimizing, and reporting across SEO, social, ads, and email.",
   "author": {
     "name": "Enrich Labs",
     "url": "https://enrichlabs.ai"
@@ -12,7 +12,7 @@
   "keywords": [
     "helena",
     "enrich labs",
-    "shopify marketing",
+    "autonomous marketing",
     "ai marketer",
     "mcp"
   ]

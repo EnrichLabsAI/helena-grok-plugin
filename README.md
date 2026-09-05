@@ -1,9 +1,9 @@
 # Helena for Grok
 
-Give Grok [Helena](https://enrichlabs.ai), the AI marketer for Shopify brands
-from Enrich Labs. Helena uses live brand and commerce context to research
-opportunities, shape strategy, build campaigns, create on-brand copy and media,
-and execute across connected marketing channels.
+Bring [Helena](https://enrichlabs.ai), the first autonomous AI marketer, to
+Grok. Helena learns your brand, builds a personalized marketing strategy, and
+executes it 24/7—writing, publishing, optimizing, and reporting across SEO,
+social, ads, and email.
 
 ## What this plugin installs
 
