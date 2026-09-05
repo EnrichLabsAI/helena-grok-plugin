@@ -1,7 +1,7 @@
 {
   "name": "helena",
   "version": "1.0.0",
-  "description": "Bring the first autonomous AI marketer to Grok. Helena learns your brand, builds a personalized strategy, and executes it 24/7—writing, publishing, optimizing, and reporting across SEO, social, ads, and email.",
+  "description": "Helena is an AI marketer that learns your business and executes campaigns across SEO, ads, social, and email.",
   "author": {
     "name": "Enrich Labs",
     "url": "https://enrichlabs.ai"
@@ -12,8 +12,8 @@
   "keywords": [
     "helena",
     "enrich labs",
-    "autonomous marketing",
-    "ai marketer",
-    "mcp"
+    "helena ai marketer",
+    "helena autonomous marketer",
+    "helena marketing"
   ]
 }
