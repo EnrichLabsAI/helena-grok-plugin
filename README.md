@@ -26,6 +26,10 @@ The first connection uses Enrich Labs OAuth 2.1 with PKCE. Sign in to Enrich
 Labs, select a brand, and approve access. Grok handles the resulting OAuth
 credentials; no API key is stored in this repository.
 
+The shorter setup URL `https://enrichlabs.ai/mcp` is a reverse proxy to the
+same MCP service at `https://agent.enrichlabs.ai/api/mcp`. This plugin uses the
+canonical endpoint directly; both URLs reach the same server and OAuth flow.
+
 MCP access requires an eligible Enrich Labs plan and completed account
 onboarding. Each authorization is scoped to the selected Enrich Labs account.
 
